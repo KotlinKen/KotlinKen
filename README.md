@@ -1,9 +1,10 @@
 <h2>Hello world, welcome Hoya's repository</h2>
 <p>Glad to meet everyone</p>
-  <a href="https://www.instagram.com/kotlin.hote/">
-    <img alt="Instagram" withd="120px" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
+  
+<img alt="Instagram" withd="120px" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />(https://www.instagram.com/kotlin.hote/)
+<p>
 well i always think that how to make simple & better logic, easily find way
+</p>
 
 will be establish priciple
 
